@@ -28,23 +28,6 @@
   </tr>
 </table>
 
-## 赞赏支持
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="img/微信.png" alt="微信赞赏码" width="260" />
-      <br />
-      微信
-    </td>
-    <td align="center" width="50%">
-      <img src="img/支付宝.jpg" alt="支付宝赞赏码" width="260" />
-      <br />
-      支付宝
-    </td>
-  </tr>
-</table>
-
 ## 最近更新
 
 ### `v3.0.1` · `2026-04-12`
